@@ -15,7 +15,7 @@ Figure: A subgraph of MTKG-1.0. A bi-directional edge represents at least one jo
 | :---:  | :---: | :----: | :----: | :----: |
 | 200 | 65 | 213 | 1.98 | 21 |
 
-We constructed MTKG-1.0, based on 200 multi-task learn-ing NLP papers collected from top AI/NLP conferences andjournals, e.g., AAAI, IJCAI, ACL, EMNLP, NAACL, ICLR,NeurIPS, ICML, TACL, JMLR. 
+We constructed MTKG-1.0, based on 200 multi-task learning NLP papers collected from top AI/NLP conferences andjournals, e.g., AAAI, IJCAI, ACL, EMNLP, NAACL, ICLR,NeurIPS, ICML, TACL, JMLR. 
 
 
 ## Visualization using D3
