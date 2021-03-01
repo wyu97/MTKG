@@ -6,7 +6,7 @@ This repository contains the supplimentary information and a visualization syste
 
 <img src="mtkg.png" width="800" align=center> 
 
-Figure: A subgraph of MTKG-1.0. A bi-directional edge represents at least one joint training methods for the two tasks.A uni-directional edge represents at least one multi-step training methods for the two tasks. Three values are for the number of methods in MTKG-1.0 that considered the transfer, shared encoder parameters, and shared decoder parameters, respectively. An example paper that has been discussed in this survey is displayed around the edge.
+Figure: A subgraph of MTKG-1.0. A bi-directional edge represents at least one joint training methods for the two tasks.A uni-directional edge represents at least one multi-step training methods for the two tasks. Three values are for the number of methods in MTKG-1.0 that considered the transfer, shared encoder parameters, and shared decoder parameters, respectively. An example paper that has been discussed in this survey is displayed.
 
 
 ## Statistic informaton of MTKG-1.0
